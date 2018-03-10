@@ -4,5 +4,4 @@ defmodule TextClient.State do
     tally: nil,
     guessed: ""
   )
-
 end
